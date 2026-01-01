@@ -88,10 +88,9 @@ This project was fully designed and implemented by **one developer**, including:
 
 ## 📂 Repository Structure
 ```text
-WebSec230103309/
+WebSec230105687/
 │── README.md
-│── LICENSE
-│── WebSecService/
+│── WebSec/
 │   ├── app/
 │   ├── routes/
 │   ├── resources/
@@ -125,7 +124,7 @@ Before you begin, ensure you have the following installed:
 #### Clone the repository
 ```bash
 git clone https://github.com/ahme-mahmoud/WebSec230105687
-cd WebSec230103309/WebSecService
+cd WebSec230105687/WebSecproject
 ```
 
 ---
@@ -180,7 +179,7 @@ php artisan serve
 #### Clone the repository
 ```bash
 git clone https://github.com/ahme-mahmoud/WebSec230105687
-cd WebSec230103309/WebSecService
+cd WebSec230103309/WebSecproject
 ```
 
 ---
@@ -256,7 +255,6 @@ npm run build
 ---
 
 - **Course:** Web & Security
-- **Project Type:** Individual (Solo) Project
 - **Focus:** Secure Web Application Development
 - **Institution:** ElSewedy University of Technology (SUT)
 
