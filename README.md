@@ -98,22 +98,23 @@ WebSec230103309/
 │   ├── database/
 │   ├── .env.example
 │   └── composer.json
+```
+
+---
 
 ## 🚀 Getting Started
 
+---
 
 ### 🔹 Prerequisites
 Before you begin, ensure you have the following installed:
 
-- Laravel  
-- PHP 8.2+  
-- Node.js & npm  
-- MySQL  
-- Composer  
-- XAMPP (Windows) or any local server  
- 
----
-## 🚀 Getting Started
+- Laravel
+- PHP 8.2+
+- Node.js & npm
+- MySQL
+- Composer
+- XAMPP (Windows) or any local server
 
 ---
 
@@ -231,7 +232,7 @@ php artisan serve
 
 ---
 
-- **Node.js & npm** are used to manage frontend dependencies  
+- **Node.js & npm** are used to manage frontend dependencies
 - Frontend assets are compiled using **Vite**
 
 ---
@@ -254,11 +255,9 @@ npm run build
 
 ---
 
-- **Course:** Web & Security  
-- **Project Type:** Individual (Solo) Project  
-- **Focus:** Secure Web Application Development  
+- **Course:** Web & Security
+- **Project Type:** Individual (Solo) Project
+- **Focus:** Secure Web Application Development
 - **Institution:** ElSewedy University of Technology (SUT)
 
 ---
-
-
